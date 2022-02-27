@@ -1,0 +1,23 @@
+/* CSS files --> contact.html */
+body{
+    background-color: #ffffff;
+}
+table{
+    width:100%; 
+    text-align: center;
+    background-color: #ffffff;
+}
+.table-menu td:hover{
+    background-color: #d7d7d7;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    color: #d7d7d7;
+    background-color: #313131;
+}
+h3{
+    text-align: center;
+    font-family: cursive;
+    font-weight: normal;
+}
